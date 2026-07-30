@@ -4,6 +4,9 @@
     "name": "Harry Siggins",
     "url": "https://onetwogrowth.com"
   },
+  "metadata": {
+    "description": "Skills from Harry Siggins' AI enablement practice at OneTwo Growth."
+  },
   "plugins": [
     {
       "name": "onetwo-skills",
