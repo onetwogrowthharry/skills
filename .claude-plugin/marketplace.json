@@ -1,0 +1,16 @@
+{
+  "name": "onetwo",
+  "owner": {
+    "name": "Harry Siggins",
+    "url": "https://onetwogrowth.com"
+  },
+  "plugins": [
+    {
+      "name": "onetwo-skills",
+      "source": "./",
+      "description": "Skills from Harry Siggins' AI enablement practice. Currently: /route, which recommends the best Anthropic model, effort level, and setup for a task.",
+      "category": "productivity",
+      "keywords": ["claude-code", "skills", "model-selection", "routing", "anthropic"]
+    }
+  ]
+}
