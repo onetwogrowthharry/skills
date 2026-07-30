@@ -1,7 +1,7 @@
 {
   "name": "harry-siggins-skills",
   "displayName": "Harry Siggins Skills",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Skills from Harry Siggins' AI enablement practice at OneTwo Growth. Currently: route, which recommends the best Anthropic model, effort level, and setup for a task.",
   "author": {
     "name": "Harry Siggins",
