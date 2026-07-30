@@ -1,3 +1,7 @@
 .DS_Store
 *.local.md
 scratch/
+
+# Built at release time and attached to the GitHub release, never committed.
+# A committed copy would drift from skills/route/ without anyone noticing.
+route.zip
