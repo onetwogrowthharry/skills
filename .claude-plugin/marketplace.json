@@ -9,11 +9,11 @@
   },
   "plugins": [
     {
-      "name": "onetwo-skills",
+      "name": "harry-siggins-skills",
       "source": "./",
-      "description": "Skills from Harry Siggins' AI enablement practice. Currently: /route, which recommends the best Anthropic model, effort level, and setup for a task.",
+      "description": "Skills from Harry Siggins' AI enablement practice at OneTwo Growth. Currently: route, which recommends the best Anthropic model, effort level, and setup for a task.",
       "category": "productivity",
-      "keywords": ["claude-code", "skills", "model-selection", "routing", "anthropic"]
+      "keywords": ["agent-skills", "skills", "model-selection", "routing", "anthropic", "claude", "claude-code", "cowork"]
     }
   ]
 }

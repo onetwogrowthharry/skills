@@ -1,8 +1,8 @@
 {
-  "name": "onetwo-skills",
-  "displayName": "OneTwo Growth Skills",
+  "name": "harry-siggins-skills",
+  "displayName": "Harry Siggins Skills",
   "version": "1.0.0",
-  "description": "Skills from Harry Siggins' AI enablement practice. Currently: /route, which recommends the best Anthropic model, effort level, and setup for a task.",
+  "description": "Skills from Harry Siggins' AI enablement practice at OneTwo Growth. Currently: route, which recommends the best Anthropic model, effort level, and setup for a task.",
   "author": {
     "name": "Harry Siggins",
     "url": "https://onetwogrowth.com"
@@ -10,6 +10,6 @@
   "homepage": "https://onetwogrowth.com",
   "repository": "https://github.com/onetwogrowthharry/skills",
   "license": "MIT",
-  "keywords": ["claude-code", "skills", "model-selection", "routing", "anthropic"],
+  "keywords": ["agent-skills", "skills", "model-selection", "routing", "anthropic", "claude", "claude-code", "cowork"],
   "skills": ["./skills/route"]
 }
